@@ -1,0 +1,14 @@
+[
+  {
+    "package": "rTRNG",
+    "oncran": true
+  },
+  {
+    "package": "sparkbq",
+    "oncran": true
+  },
+  {
+    "package": "XLConnect",
+    "oncran": true
+  }
+]
