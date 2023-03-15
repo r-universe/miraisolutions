@@ -1,6 +1,6 @@
 [
   {
-    "package": "rTRNG",
+    "package": "XLConnect",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "XLConnect",
+    "package": "rTRNG",
     "oncran": true
   }
 ]
