@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "rTRNG"]
 	path = rTRNG
 	url = https://github.com/miraisolutions/rtrng
-	shallow = true
-	registered = true
 [submodule "sparkbq"]
 	path = sparkbq
 	url = https://github.com/miraisolutions/sparkbq
-	shallow = true
-	registered = true
 [submodule "XLConnect"]
 	path = XLConnect
 	url = https://github.com/miraisolutions/xlconnect
-	shallow = true
-	registered = true
