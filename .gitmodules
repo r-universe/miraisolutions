@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "XLConnect"]
+	path = XLConnect
+	url = https://github.com/miraisolutions/xlconnect
 [submodule "rTRNG"]
 	path = rTRNG
 	url = https://github.com/miraisolutions/rtrng
 [submodule "sparkbq"]
 	path = sparkbq
 	url = https://github.com/miraisolutions/sparkbq
-[submodule "XLConnect"]
-	path = XLConnect
-	url = https://github.com/miraisolutions/xlconnect
